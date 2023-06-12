@@ -2,8 +2,8 @@
   "name": "aa_todoContainer",
   "type": "ui-container",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/that-coder/aa.git",
+    "ssh": "git@github.com:that-coder/aa.git",
     "branch": "block_aa_todoContainer"
   },
   "language": "js",

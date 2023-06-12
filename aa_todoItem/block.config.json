@@ -2,8 +2,8 @@
   "name": "aa_todoItem",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/that-coder/aa.git",
+    "ssh": "git@github.com:that-coder/aa.git",
     "branch": "block_aa_todoItem"
   },
   "language": "js",

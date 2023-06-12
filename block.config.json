@@ -2,8 +2,8 @@
   "name": "aa",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/that-coder/aa.git",
+    "ssh": "git@github.com:that-coder/aa.git",
     "branch": "block_aa"
   },
   "dependencies": {
