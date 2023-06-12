@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/that-coder/aa.git",
+    "ssh": "git@github.com:that-coder/aa.git",
+    "branch": "block_aa_addTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "aa_addTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "4slzzKQUZiz02L4vXI-eJ",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "bWJoVesN0ntELZk7KKkT0"
+  ]
+}
