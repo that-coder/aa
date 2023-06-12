@@ -1,0 +1,20 @@
+{
+  "blockId": "5m8f_ygiHry5LtRB5oRHe",
+  "name": "aa_list_api",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/that-coder/aa.git",
+    "ssh": "git@github.com:that-coder/aa.git",
+    "branch": "block_aa_list_api"
+  },
+  "parentBlockIDs": [
+    "bWJoVesN0ntELZk7KKkT0"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
