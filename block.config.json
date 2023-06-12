@@ -1,0 +1,36 @@
+{
+  "name": "aa",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_aa"
+  },
+  "dependencies": {
+    "aa_listTodos": {
+      "directory": "aa_listTodos"
+    },
+    "aa_addTodo": {
+      "directory": "aa_addTodo"
+    },
+    "aa_removeTodo": {
+      "directory": "aa_removeTodo"
+    },
+    "aa_todoInput": {
+      "directory": "aa_todoInput"
+    },
+    "aa_todoItem": {
+      "directory": "aa_todoItem"
+    },
+    "aa_todoContainer": {
+      "directory": "aa_todoContainer"
+    }
+  },
+  "blockId": "bWJoVesN0ntELZk7KKkT0",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
