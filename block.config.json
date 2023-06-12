@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/that-coder/aa.git",
+    "ssh": "git@github.com:that-coder/aa.git",
+    "branch": "block_aa_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "aa_removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "dLg_GV_ptjtf5Xd2cyTVD",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "bWJoVesN0ntELZk7KKkT0"
+  ]
+}
